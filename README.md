@@ -33,7 +33,10 @@
 
 # Ejemplo
 
-## Link de Código VSC: 
+## Link de Código VSC: https://github.com/Sebastian5050942/Repositorio_Unidad4/blob/09fed9b60145575c1a33b28b66c9193ebb3490cb/Unidad4/ejemplo1.py
+
+### Prueba de ejecución en la Terminal:
+<img width="1030" height="160" alt="image" src="https://github.com/user-attachments/assets/329585c8-228b-4355-9d18-755f4b0fab18" />
 
 
 # Trabajo en IDLE
