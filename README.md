@@ -9,13 +9,19 @@
 
 ## Link de Código VSC: https://github.com/Sebastian5050942/Repositorio_Unidad4/blob/839b43d8e110fd08e0a571e39bca5fd59bedfbae/Unidad4/actividad1.py
 
-### Prueba de Terminal:
+### Prueba de ejecución en la Terminal:
 <img width="1022" height="91" alt="image" src="https://github.com/user-attachments/assets/5abab6df-c628-4f3b-9d62-f0cbc0f652eb" />
 
 ## Link de Código VSC: https://github.com/Sebastian5050942/Repositorio_Unidad4/blob/32c2b5e5ee96ce73b5b3abb931c087bddb901439/Unidad4/actividad2.py
 
-### Prueba de Terminal:
+### Prueba de ejecución en la Terminal:
 <img width="1025" height="97" alt="image" src="https://github.com/user-attachments/assets/a17177b5-1659-45e4-b33e-330dca6264f9" />
+
+## Link de Código VSC: https://github.com/Sebastian5050942/Repositorio_Unidad4/blob/9bc55cb0cae757d3813dee8ba5243546689979ee/Unidad4/actividad3.py
+
+### Prueba de ejecución en la Terminal:
+<img width="1043" height="92" alt="image" src="https://github.com/user-attachments/assets/d970610b-62e9-4b25-9c00-5f43b7c9f476" />
+
 
 # Pregunta de Parcial
 
