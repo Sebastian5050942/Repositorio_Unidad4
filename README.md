@@ -22,7 +22,7 @@
 ### Prueba de ejecución en la Terminal:
 <img width="1043" height="92" alt="image" src="https://github.com/user-attachments/assets/d970610b-62e9-4b25-9c00-5f43b7c9f476" />
 
-## Link de Código VSC:
+## Link de Código VSC: https://github.com/Sebastian5050942/Repositorio_Unidad4/blob/3c618da54ba6b1813ffd996bdb3820d5150965ab/Unidad4/Listas2.py
 
 ### Prueba de ejecución en la Terminal:
 <img width="1003" height="205" alt="image" src="https://github.com/user-attachments/assets/5ec7f37a-6d10-4711-b74d-cb8ef9d6e717" />
