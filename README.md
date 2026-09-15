@@ -32,7 +32,11 @@
 
 ### Solución:
 
-#### Link de Código VSC:
+#### Link de Código VSC: https://github.com/Sebastian5050942/Repositorio_Unidad4/blob/43555f77e62245f323b950a476c43ef75b8c8268/Unidad4/Listas.py
+
+### Prueba de ejecución en la Terminal:
+<img width="1010" height="468" alt="image" src="https://github.com/user-attachments/assets/28d1bcc2-2489-4ed7-b308-8be4ed677e94" />
+
 
 # Pregunta de Parcial
 
