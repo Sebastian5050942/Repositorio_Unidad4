@@ -22,6 +22,12 @@
 ### Prueba de ejecución en la Terminal:
 <img width="1043" height="92" alt="image" src="https://github.com/user-attachments/assets/d970610b-62e9-4b25-9c00-5f43b7c9f476" />
 
+## Link de Código VSC:
+
+### Prueba de ejecución en la Terminal:
+<img width="1003" height="205" alt="image" src="https://github.com/user-attachments/assets/5ec7f37a-6d10-4711-b74d-cb8ef9d6e717" />
+
+
 # Trabajo en IDLE
 
 <img width="700" height="710" alt="image" src="https://github.com/user-attachments/assets/39b88615-0657-4b77-9ef7-1c1c4d296c32" />
