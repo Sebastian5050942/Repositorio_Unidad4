@@ -27,6 +27,10 @@
 ### Prueba de ejecución en la Terminal:
 <img width="1003" height="205" alt="image" src="https://github.com/user-attachments/assets/5ec7f37a-6d10-4711-b74d-cb8ef9d6e717" />
 
+# Iteración con Bucles While y For
+
+## Link de Código VSC: 
+
 
 # Trabajo en IDLE
 
