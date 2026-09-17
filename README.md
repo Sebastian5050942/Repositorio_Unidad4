@@ -76,3 +76,10 @@ La mutabilidad se refiere a si un objeto puede ser modificado después de su cre
 ### Prueba de ejecución en la Terminal:
 
 <img width="1016" height="279" alt="image" src="https://github.com/user-attachments/assets/c1e7d526-bb27-4f2c-b019-8cf2cb392373" />
+
+## Link de Código VSC:
+
+### Prueba de ejecución en la Terminal:
+
+<img width="1026" height="302" alt="image" src="https://github.com/user-attachments/assets/1b9bc993-f563-423e-8e39-fd35f92c3af2" />
+
