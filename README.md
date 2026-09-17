@@ -68,3 +68,5 @@ La mutabilidad se refiere a si un objeto puede ser modificado después de su cre
 **Objetos Mutables**: Pueden ser modificados después de su creación.
 
 - Ejemplos: listas, diccionarios, sets
+
+# Clase 17 de Septiembre / 2026
