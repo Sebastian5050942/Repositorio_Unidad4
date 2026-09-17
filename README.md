@@ -70,3 +70,9 @@ La mutabilidad se refiere a si un objeto puede ser modificado después de su cre
 - Ejemplos: listas, diccionarios, sets
 
 # Clase 17 de Septiembre / 2026
+
+## Link de Código VSC: https://github.com/Sebastian5050942/Repositorio_Unidad4/blob/0cd299564cda737aad908a43669bad5e50a1991c/Unidad4/Listas4.py
+
+### Prueba de ejecución en la Terminal:
+
+<img width="1016" height="279" alt="image" src="https://github.com/user-attachments/assets/c1e7d526-bb27-4f2c-b019-8cf2cb392373" />
