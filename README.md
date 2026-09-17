@@ -83,3 +83,15 @@ La mutabilidad se refiere a si un objeto puede ser modificado después de su cre
 
 <img width="1026" height="302" alt="image" src="https://github.com/user-attachments/assets/1b9bc993-f563-423e-8e39-fd35f92c3af2" />
 
+## Link de Código VSC: https://github.com/Sebastian5050942/Repositorio_Unidad4/blob/802a9d5b677e7c3770e15fb9c2bb79eb1663f35c/Unidad4/quiz1.py
+
+### Prueba de ejecución en la Terminal:
+
+<img width="995" height="162" alt="image" src="https://github.com/user-attachments/assets/ba3ab206-4eb8-472b-956b-3b295c11c785" />
+
+## Link de Código VSC: https://github.com/Sebastian5050942/Repositorio_Unidad4/blob/6acfea3368daf5e4c0ba91b0d18787d8eb204ee5/Unidad4/ejemplo2.py
+
+### Prueba de ejecución en la Terminal:
+
+<img width="1015" height="80" alt="image" src="https://github.com/user-attachments/assets/e3d8dd23-3267-4d4a-9390-37220ad5b680" />
+
