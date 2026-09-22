@@ -95,3 +95,4 @@ La mutabilidad se refiere a si un objeto puede ser modificado después de su cre
 
 <img width="1015" height="80" alt="image" src="https://github.com/user-attachments/assets/e3d8dd23-3267-4d4a-9390-37220ad5b680" />
 
+# Clase 22 de Septiembre / 2026
