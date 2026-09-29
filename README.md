@@ -386,4 +386,162 @@ else:
 
 <img width="586" height="128" alt="image" src="https://github.com/user-attachments/assets/2244da12-ecb3-484b-9ded-f6c356d985c3" />
 
+# Clase 29 de Septiembre / 2026
 
+### Nota de Clase:
+
+<img width="700" height="502" alt="image" src="https://github.com/user-attachments/assets/594c2ab8-367a-4527-a17c-65b66548d3c0" />
+
+## Código VSC: 
+
+```python
+# Diccionario vacío
+aeronave = {}
+
+# Diccionario con elementos
+aeronave = {
+    "modelo": "Boeing 787-9",
+    "envergadura": 60.17,  # metros
+    "longitud": 62.81,     # metros
+    "mtow": 254000,        # kg
+    "velocidad_max": 954   # km/h
+}
+
+# Diccionario con diferentes tipos de datos como valores
+vuelo = {
+    "numero": "AA123",
+    "origen": "KLAX",
+    "destino": "KJFK",
+    "distancia": 3983,
+    "a_tiempo": True,
+    "tripulacion": ["Capitán Smith", "F/O Johnson", "F/E Williams"]
+}
+
+# Creación con dict()
+motor = dict(fabricante="GE", modelo="GE9X", empuje=470, bypass_ratio=10)
+
+#Acceder a los datos
+
+print("El modelo del avión es; ", aeronave["modelo"])
+print(f"Peso máximo de despegue es: {aeronave['mtow']}")
+
+#Agregar una clave:valor adicional al diccionario
+
+aeronave["cap_pasajeros"] = 300
+
+print(f"Capacidad máxima de pasajeros es: {aeronave["cap_pasajeros"]}")
+
+vuelo["destino"] = "MDE"
+
+print("Capitan del vuelo:",vuelo["tripulacion"][0])
+
+l = aeronave.get("longitud","Clase no encontrada.")
+print(l)
+
+#Recorrer un diccionario completo
+
+for clave in vuelo:
+    print(f"Clave: {clave} - Valor {vuelo[clave]}")
+
+for clave, valor in vuelo.items():
+    print(clave, "-", valor)
+
+
+```
+
+### Prueba de ejecución en la Terminal: 
+
+<img width="706" height="357" alt="image" src="https://github.com/user-attachments/assets/097d6461-3671-4727-9eaa-c981bf4210c3" />
+
+
+<img width="712" height="144" alt="image" src="https://github.com/user-attachments/assets/b565eef5-abe6-4a6c-9c25-26423f67c092" />
+
+
+# Ejercicio a Terminar en Casa
+
+```python
+# Base de datos de flota
+flota = {
+    "N123AA": {
+        "modelo": "Boeing 787-9",
+        "año": 2018,
+        "horas_vuelo": 12500,
+        "ciclos": 1350,
+        "estado": "En servicio",
+        "base": "DFW",
+        "proxima_revision": "2023-07-15"
+    },
+    "N456AA": {
+        "modelo": "Boeing 777-300ER",
+        "año": 2014,
+        "horas_vuelo": 26800,
+        "ciclos": 2940,
+        "estado": "En mantenimiento",
+        "base": "MIA",
+        "proxima_revision": "2023-03-30"
+    }
+}
+
+# Añadir nueva aeronave
+flota["N789AA"] = {
+    "modelo": "Airbus A321neo",
+    "año": 2022,
+    "horas_vuelo": 1200,
+    "ciclos": 420,
+    "estado": "En servicio",
+    "base": "LAX",
+    "proxima_revision": "2024-01-10"
+}
+
+# Actualizar datos de mantenimiento
+flota["N456AA"]["estado"] = "En servicio"
+flota["N456AA"]["horas_vuelo"] += 12  # Después de un vuelo
+flota["N456AA"]["ciclos"] += 1
+
+# Mostrar información detallada
+for matricula, datos in flota.items():
+    print(f"\\nAeronave: {matricula}")
+    for clave, valor in datos.items():
+        print(f"  {clave}: {valor}")
+
+# Mostrar la placa y el modelo de todos los aviones
+for placa in flota:
+    print(placa, flota[placa]["modelo"])
+
+#TERMINAR EN CASA
+```
+
+# Código VSC:
+
+```python
+#Creación del diccionario
+vuelo = {
+    "aerolinea": "Avianca",
+    "vuelo": "AV123",
+    "origen": "BOG",
+    "destino": "MDE"
+}
+#Acceso a valores
+ciudad_llegada = vuelo["destino"]
+print(ciudad_llegada)
+
+#Modificación de un valor existente
+vuelo["destino"] = "CLO"
+print(vuelo)
+
+#Agregar un nuevo par clave-valor
+vuelo["estado"] = "En el aire"
+print(vuelo)
+
+#Uso del método `.get()` (Acceso seguro)
+Y = vuelo.get ("Piloto", "Piloto no asignado")
+print(Y)
+
+#Eliminar un dato (clave y valor)
+piloto = vuelo.pop("Piloto", "Piloto no asignado")
+print(piloto)
+```
+
+### Prueba de ejecución en la Terminal: 
+
+<img width="715" height="179" alt="image" src="https://github.com/user-attachments/assets/c4caf25a-9127-4d6c-9bd2-794e9b0f8584" />
