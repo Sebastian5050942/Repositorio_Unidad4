@@ -543,3 +543,41 @@ print(piloto)
 ### Prueba de ejecución en la Terminal: 
 
 <img width="715" height="179" alt="image" src="https://github.com/user-attachments/assets/c4caf25a-9127-4d6c-9bd2-794e9b0f8584" />
+
+# Clase 01 de Octubre / 2026
+
+## Diccionario de 3 Métodos:
+
+1. setdefault(): Tiene como objetivo buscar una clave dentro del diccionario, donde si la clave existe esta misma devuelve su valor, pero si no existe seria creada como un valor por defecto
+2. popitem(): Permite eliminar el par-clave que fue insertado dentro del diccionario. Asimismo, este devuelve aquel par como una Tupla
+3. keys(): Devuelve una vista en general de las claves que pertenecen al diccionario. Por lo cual, si se agrega o elimina los diferentes elementos cada dato se actualizara automaticamente
+
+# Código VSC:
+
+```python
+#Diccionario de 3 Métodos
+
+Vehículos = {
+    "Mazda" : "CX60",
+    "Chevrolet" : "Corvette",
+    "Ferrari" : "458 Spyder"
+}
+Vehículos["Mazda"] = "CX60" 
+Vehículos["Chevrolet"] = "Corvette"
+Vehículos["Ferrari"] = "458 Spyder"
+
+print(Vehículos)
+
+#Diccionario con método popitem()
+Vehículo_eliminado = Vehículos.popitem()
+print(f"Vehículo eliminado: {Vehículo_eliminado}")
+print(f"Diccionario actualizado: {Vehículos}")
+
+#Diccionario con método keys()
+claves = Vehículos.keys()
+print(f"Claves del diccionario: {claves}")
+```
+
+### Prueba de ejecución en la Terminal: 
+<img width="647" height="135" alt="image" src="https://github.com/user-attachments/assets/db423366-e7e3-4d13-ade9-01c7c7169f44" />
+
