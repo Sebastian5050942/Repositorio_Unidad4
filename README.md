@@ -507,8 +507,6 @@ for matricula, datos in flota.items():
 # Mostrar la placa y el modelo de todos los aviones
 for placa in flota:
     print(placa, flota[placa]["modelo"])
-
-#TERMINAR EN CASA
 ```
 
 # Código VSC:
